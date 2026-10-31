@@ -1,2 +1,1 @@
-# EHquiz2
-EH quiz
+ok now, give me a in depth guide for all the lectures, help me prepare for my quiz, memorise and understand, make sure u cover alll key cocnepts, for all the lectures, use analogys if needed to explain . after that generate 5 sets of 50 mcq + multi select questions for me to do, generate the index html for me. u can use this as reference.
